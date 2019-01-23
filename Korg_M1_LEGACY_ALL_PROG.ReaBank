@@ -1,0 +1,1478 @@
+// Korg M1 Programs
+// Factory
+// Press PROG button
+// Or, for multitimbural, press SEQ
+
+Bank 0 0 Factory Programs
+0 Universe
+1 Piano
+2 Brass1
+3 Ooh-Ahh
+4 Guitar1
+5 BottleBell
+6 Fretless 
+7 Symphonic 
+8 PanFlute 
+9 Drums#1
+10 PanMallet 
+11 E.Piano1 
+12 Trumpet
+13 Nimbus
+14 DistGuitar 
+15 Vibes
+16 PickBass 
+17 Organ2
+18 Flute
+19 Pole
+20 DreamPad
+21 MagicPiano 
+22 SoloSax
+23 Choir
+24 12-String 
+25 Kalimba
+26 A.Bass
+27 Strings
+28 SynMallet 
+29 Drums#2
+30 Lore
+31 Harpsichord 
+32 DoubleReed 
+33 Bottles
+34 KotoTrem
+35 BellRing
+36 SynthBass1 
+37 Timp&Bells 
+38 SoloSynth 
+39 Pop
+40 Magician
+41 Piano8â€™
+42 Overture
+43 Angels
+44 Sitar1
+45 Tubular 
+46 SlapBass 
+47 PipeOrgan 
+48 Wire
+49 Drums#3
+50 BambuTrem 
+51 E.Piano4 
+52 TubaFlugel 
+53 VoiceWave 
+54 Guitar2
+55 MetalHit 
+56 SynthBass2 
+57 StringRise 
+58 PanWave
+59 Hammer
+60 CloudNine 
+61 Clav
+62 TenorSax 
+63 Voices
+64 RockGuitar 
+65 WindBells 
+66 SynthBass3 
+67 Organ1
+68 Block
+69 FingerSnap 
+70 MagicOrgan 
+71 E.Piano2 
+72 Brass2
+73 FVWave
+74 PickGuitar 
+75 Digi-Bells 
+76 AnalogBass 
+77 PingWave 
+78 VibeHit
+79 Pluck
+80 Good&Bad 
+81 Digital2 
+82 MuteTrp
+83 Stratos
+84 Sitar2
+85 Flexatone 
+86 Digital4 
+87 SoftHorns 
+88 HellsBells 
+89 Drop
+90 Zephyr
+91 E.Piano3 
+92 SynthBrass 
+93 Digital5 
+94 E.Guitar1 
+95 Rhythm
+96 MonoSynth 
+97 Hold...
+98 Wait...
+99 Surprise!!
+
+// Korg M1
+// MPC-0EX Programs
+// Press Prog button
+
+Bank 0 1 MPX-0EX progs
+0 One World
+1 Piano2 16'
+2 Alto Sax
+3 Spectrum 2
+4 E.Bass 2
+5 Marimba
+6 Res-Synth1
+7 Stringorch
+8 Wavesweep1
+9 T1 Drums
+10 Steamsynth
+11 Soft E.P.
+12 Trombone
+13 Wavesweep2
+14 Banjo
+15 Gamelan
+16 Pick-Piano
+17 Harp
+18 Wavesweep3
+19 Timpani
+20 Pasqualina
+21 Pad Piano
+22 Harmonica
+23 Vocoder
+24 Stick Bass 	
+25 Pot Covers
+26 Da Voice
+27 Soloviolin
+28 Bellsynth1
+29 Drum Kit 2
+30 Pizzicato
+31 Organ 4
+32 Clarinet
+33 Analogpad1
+34 E.Guitar 2
+35 Music Box
+36 Pro Sync
+37 Analogpad2
+38 Analogstab
+39 Tuned Drum
+40 Gospelorg
+41 Clavinet
+42 Baritonsax
+43 Choriana
+44 New Slap
+45 Industry
+46 Res-Synth2
+47 Veneziano
+48 Wavesweep4
+49 Gate Drum 	
+50 Palamine
+51 Piano2 8'
+52 Accordion
+53 Bellsynth2
+54 Mandolin
+55 Spec.Junk
+56 Cha Voice
+57 ArcoStrng1
+58 Synthbass3
+59 Velo+Gated
+60 Fantasy
+61 Pipeorgan1
+62 FrenchHorn
+63 Wavesweep5
+64 FingerPick
+65 Toy Piano
+66 Zawinul
+67 Softstring
+68 Super E.P.
+69 Clicker
+70 Bag Pipe
+71 Hard E.P.
+72 Hard Flute
+73 Soft Pad
+74 Harmonics 	
+75 Synth Gong
+76 Wire 2
+77 Cellos
+78 Chorus Gtr
+79 Cymbell
+80 Start Orch
+81 Organ 3
+82 Analog
+83 Sensitive
+84 Round Bass
+85 Steam
+86 PickGuitar
+87 Monsoon
+88 Wavesweep6
+89 Perc Wave
+90 Mystery
+91 Pipeorgan2
+92 Hard Sax
+93 Waterphone
+94 Koto
+95 Noise
+96 Two Worlds
+97 Tchu Wave
+98 Wavesweep7
+99 TunedDrum2 
+
+// Korg M1
+// MPC-01 Programs
+// Press Prog button
+
+Bank 0 2 MPC-01 progs
+0 Stringsaw
+1 Chin-Brass
+2 SimplPiano
+3 VoiStrings
+4 MalletBell
+5 E.Organ
+6 Flute
+7 Syn ZIMBA
+8 CelloStr.
+9 Syn Bass 1
+10 BrightStr.
+11 Brasstring
+12 E.Piano
+13 VoiceWind
+14 MelodyBell
+15 ChurchOrgn
+16 DoubleReed
+17 PizzString
+18 Soft Harp
+19 SlapS,Bass
+20 SawStrings
+21 AnaSoftBrs
+22 E.PianoSaw
+23 MalletFsx
+24 Brass Down
+25 Mute&Wood
+26 Fagotto
+27 BoxClavi
+28 LovelyDuet
+29 Steel Harp
+30 Symphonic+
+31 PhoneEns.
+32 PianoWith
+33 Go Away
+34 Elec.Koto
+35 Wind Pad 1
+36 SawTrumpet
+37 EffectPad
+38 GrowlBrezz
+39 LowStrings
+40 DRUM LIVE
+41 BrassEns.
+42 Vibes
+43 Symphonic4
+44 12String G
+45 LeadGuitr1
+46 Marimba
+47 BoxSitar
+48 SaxWave
+49 Art Of H
+50 ChamberStr
+51 SpritBrass
+52 GlockBell
+53 SweetFiddl
+54 GlassPad
+55 Velo.Swich
+56 VoiceSing1
+57 BlockOrgan
+58 Talking M1
+59 VoicesBell
+60 VoiceOrgn
+61 FilterOpen
+62 SoftBrasPd
+63 Overtone
+64 LeadGuitr2
+65 SpicatStr.
+66 Swell-Pad
+67 Glocken
+68 DigiSquare
+69 Single-Saw
+70 Saw&Pulstr
+71 SpltWhistl
+72 Wind Pad 2
+73 ToyPiano
+74 MalletGong
+75 SquarePipe
+76 Sax-Pet
+77 DigiPF-Mix
+78 Velo.SWsax
+79 M1 Racer
+80 HighString
+81 Saw-Brass
+82 VeloSweep
+83 Blockarim.
+84 WireString
+85 PanBelPad
+86 Cristal
+87 Dark Bass
+88 DRUM KIT
+89 Oriental
+90 ORCHE LOW
+91 Up Part
+92 P S G 1
+93 Effect Per
+94 Super Gate
+95 TaikoSweep
+96 Art Of N
+97 VideoWorks
+98 Pulstrings
+99 Free Space
+
+// Korg M1
+// MPC-02 Programs
+// Press PROG button
+
+Bank 0 3 MPC-02 prog
+0 Bell Wave
+1 Room Hit
+2 Clang
+3 Slap Hit
+4 Wave PAD
+5 Phase#1
+6 MIDI Vox
+7 EBass 2
+8 SynBass4
+9 Digital 6
+10 MWave
+11 SynBass3
+12 S&H-WAVE
+13 PercWave
+14 SynBass5
+15 Digital 7
+16 OctWave
+17 24~Guitars
+18 Steelish
+19 Squeez Me
+20 Busy Talk
+21 Nat'nlGeo
+22 HawsPipe
+23 Talk Moog
+24 PolarChoir 	
+25 Slap Flute
+26 Clink
+27 Corli-Oboe
+28 Pizz-a
+29 AeroGlide
+30 Screamer
+31 PhasePerc
+32 Drazz
+33 PianoTalk
+34 Afterlife
+35 MrMarshal
+36 Tumba
+37 PopenPipe
+38 BrakeDrums
+39 PhasePiano
+40 VoxMallet
+41 CrytalSong
+42 Z~Bass
+43 Life Magic
+44 TouchBrass
+45 PhaseFlow
+46 Room Kit
+47 Intrinsync
+48 ATRotary
+49 Down River 
+
+// Korg M1
+// MPC-03 Programs
+// Press PROG button
+
+Bank 0 4 MPC-03 prog
+0 Ambient
+1 Soft Grand
+2 ~ Push
+3 *Texture*
+4 Montoya
+5 ElectroKit
+6 ClickBass
+7 {=Xanos=}
+08 New-Winds
+09 Halloween
+10 Percussion
+11 RockPiano!
+12 Dark*Light
+13 ||Saga||
+14 MuteGuitar
+15 NastyDrumz
+16 P Bass
+17 Nite|Mist
+18 FrenchHorn
+19 VoicesPad
+20 F/X Kit
+21 MagicRoad
+22 :Star Man:
+23 Mythology
+24 GR8 Clav' 	
+25 F/X~RadKit
+26 TechnoBass
+27 ({~MARS })
+28 Echo:Brass
+29 Breath
+30 Tuned Kit
+31 DigiWirlie
+32 = TOUCH =
+33 WhaleSong
+34 Piano~Clav
+35 GATED
+36 Fretless 2
+37 *(Flying)*
+38 Brassical
+39 SawStrings
+40 TechDrums!
+41 SmoothRoad
+42 Rain|Bell
+43 ProcesSAX
+44 StabiClavi
+45 BombayBell
+46 SuperSlap
+47 WoodWater
+48 WayOutLead
+49 Rosin 
+
+// Korg M1
+// MPC-04 Programs
+// Press PROG button
+
+Bank 0 5 MPC-04 prog
+0 Bassoon
+1 Clarinet
+2 Oboe
+3 FrenchHorn
+4 Strings 2
+5 Strings 3
+6 Bs/Cl/Vl
+7 Harp
+8 PipeOrgan1
+9 PipeOrgan2
+10 HeavenHarp
+11 GrandPiano
+12 Power !
+13 Pizzicato
+14 Symphony
+15 Room Vibes
+16 ReedFlute
+17 Chorale
+18 Soft Flute
+19 Cornet
+20 Men&Women
+21 Cross-Fade
+22 Strings&BS
+23 Clavicord
+24 Bassn-Oboe 	
+25 BottleTalk
+26 ChurchBell
+27 Strings 1
+28 Vox Land
+29 Echo Mute
+30 Piano&Str
+31 Big Drums
+32 EthnicOrch
+33 The Brass
+34 Tremolo
+35 Tiny Bells
+36 Fanfare
+37 KettleDrum
+38 TecnoBlock
+39 DWGS Organ
+40 FlugelHorn
+41 ConcertSax
+42 SmallOrgan
+43 ChimeOrgan
+44 Celesta
+45 Soft Horn
+46 SoloString
+47 SoftString
+48 Slow Brass
+49 PadStrings 
+
+// Korg M1
+// MPC-05 Programs
+// Press PROG button
+
+Bank 0 6 MPC-05 prog
+0 Piano2 Low
+1 Piano2High
+2 Piano1 Low
+3 Pianos 1
+4 Piano1High
+5 Pianos 2
+6 PianoXHigh
+7 Brass&Reed
+8 I saw wind
+9 Callilead
+10 Fragile
+11 5th Ave
+12 Band Swell
+13 Angel Hair
+14 Rock Organ
+15 HunduiBell
+16 Roto-Bass
+17 AnalogHorn
+18 Warm+Fuzzy
+19 Ambient
+20 SweetBambu
+21 ReedPiano
+22 Trpt & Sax
+23 Dynner 1
+24 Nylon Slap 	
+25 Bali Bells
+26 Fret Pick
+27 Orch Pad 
+28 LightAfter
+29 SawStrings
+30 SunMallet
+31 GlassPiano
+32 MutedBrass
+33 MagicVoice
+34 Flat-Top
+35 Soft-Bells
+36 BreathBass
+37 Super Pizz
+38 Night Dad
+39 Stringz
+40 ArcticWind
+41 GrandHpsic
+42 Brass Pad
+43 Ethereal
+44 PianoStack
+45 KillerHorn
+46 TyneVoices
+47 FolkGuitar
+48 BottleRing
+49 HammerBass 
+
+// Korg M1
+// MPC-06 Programs
+// Press PROG button
+
+Bank 0 7 MPC-06 prog
+0 Rocklead
+1 CleanStrat
+2 Jazzguitar
+3 Spanishgtr
+4 Muted Gtr
+5 Banjo
+6 Koto
+7 Santur
+8 PerfmBass
+9 Round Bass
+10 FingerBass
+11 Stique
+12 Chrs-Clav
+13 Monopoly
+14 Condenser
+15 Bigband
+16 Rock-Organ
+17 Roarng50s
+18 Herp'sSolo
+19 SteelStrng
+20 Strippen
+21 Pedalsteel
+22 Wire-Piano
+23 Syn-String
+24 Vari-Fuzz 	
+25 Harpsicord
+26 Vel-Choir
+27 Cello
+28 Syn-Brass
+29 ElctrHarp
+30 Low Orch
+31 Mandolin
+32 GS-Piano
+33 Squarelead
+34 Sitar
+35 Shrong
+36 Stratocord
+37 Vocalizer
+38 Stickpiano
+39 Colossus
+40 Oblivion
+41 FM-Jet
+42 Falsepiano
+43 Afterwards
+44 SmoothPick
+45 Interstlr
+46 Saw-Play
+47 Kyrie-Seq
+48 Drums #1
+49 Drums #2 
+
+// Korg M1
+// MPC-07 Programs
+// Press PROG button
+
+Bank 0 8 MPC-07 prog
+0 Mysterian
+1 Pulse-Pad
+2 Res-Bass
+3 Toy-Piano
+4 ArcoSynth
+5 WaveSweep1
+6 Pulsar
+7 Octaver
+8 Bellz
+9 WiredStrgs
+10 Spectrum 2
+11 Wave-Brass
+12 Chiff-Bass
+13 RadioSynth
+14 Wired
+15 Spectrum 1
+16 BrightSynt
+17 DancinBass
+18 OWooHarp
+19 Starburst
+20 SquareSyn
+21 Pad 2
+22 MumbleBass
+23 Digi-Tyne
+24 -Strange- 	
+25 WaveSweep2
+26 Stac-Brass
+27 MumbleFish
+28 Perc-Voice
+29 Sympulse
+30 Star-Sweep
+31 SynthForte
+32 Rude-Bass
+33 10%Strings
+34 Submarin
+35 Heaven
+36 Res-Wave
+37 Trouble
+38 XyloWave
+39 AnaloBrass
+40 Pad 1
+41 SteamSynth
+42 PercNoise
+43 Metal-Pad
+44 Wind
+45 Wave-Rings
+46 SoftVoices
+47 Velo+Gated
+48 CloudDrops
+49 Bell-Pad 
+
+// Korg M1
+// MPC-08 Programs
+// Press PROG button
+
+Bank 0 9 MPC-08 prog
+0 Anvil #1
+1 Gong Choir
+2 Clockshop1
+3 Clockshop2
+4 6:Amhorror
+5 Vibraslap1
+6 Vibraslap2
+7 Gunshot
+8 High Noon!
+9 Cikadasss
+10 Tinklepno!
+11 YelloSubm
+12 PickBottle
+13 Door?Open!
+14 Door?Close
+15 Open&Close
+16 Perchoir !
+17 FlangeGong
+18 SpacePerc
+19 CrazyBells
+20 SlapZap  !
+21 Piano Soft
+22 Piano
+23 PianoBrite
+24 GermFlute 	
+25 EDGomez
+26 "Rock It!"
+27 BrassSectn
+28 HvK'sFavor
+29 Obligatory
+30 Stormbells
+31 Synthvibes
+32 Orientales
+33 BreathVox
+34 ClkSoloSyn
+35 Explosion!
+36 Background
+37 Vive La(F)
+38 ClickOrgan
+39 *Mark 1*
+40 Vibraslap3
+41 Magicians
+42 Clavebells
+43 Choir&Strg
+44 FlngePiano
+45 Vibes&Strg
+46 FlangeDrms
+47 GatedDrums
+48 New Drums1
+49 New Drums2 
+
+// Korg M1
+// MPC-09 Programs
+// Press PROG button
+
+Bank 0 10 MPC-09 prog
+0 UniverseII
+1 The Legend
+2 Jazz1 + RS
+3 Full  Trem
+4 B3Ovdr+RS
+5 Rotary BX3
+6 Accordeon1
+7 Full  Slow
+8 PipeOrgan1
+9 PipeOrgan2
+10 Sphare
+11 Super-BX 3
+12 Jazz2 Trem
+13 MediumTrem
+14 PcOvdr+RS
+15 FullOrg+RS
+16 Musette
+17 16'+ 22/3'
+18 PipeOrgan3
+19 PipeOrgan4
+20 Cloud  VII
+21 BX-100
+22 Jazz3PcCh
+23 Jazz-Perc
+24 FullOvdRS 	
+25 Clicky BX3
+26 Accordeon2
+27 Bluesharp1
+28 PipeOrgan5
+29 PipeOrgan6
+30 Bell-Organ
+31 Analg+Perc
+32 Jazz4 + RS
+33 Solo  Trem
+34 Ensemble
+35 Medium +RS
+36 Perc 22/3
+37 Bluesharp2
+38 PipeOrgan7
+39 PipeOrgan8
+40 PipeOrgan9
+41 MagicOrgan
+42 AnalogOrg
+43 Jazz5 Trem
+44 Drums #1
+45 FingerBass
+46 ConcertGrd
+47 Tenor Sax
+48 Trpt-Brass
+49 MuteGuitar
+
+// Korg M1
+// MPC-010 Programs
+// Press PROG button
+
+Bank 0 11 MPC-010 prog
+0 Dumbek Art
+1 Shaka 1
+2 ThaiBell
+3 Bull Roar
+4 HamDulcimr
+5 Carribean
+6 Dumbek
+7 FingCymbal
+8 PennyWistl
+9 RainForest
+10 Sarcophigi
+11 Wood Flute
+12 Gendar
+13 ShakuVoice
+14 Fretless
+15 BowedCymbl
+16 Drums #1
+17 Kalimba
+18 Pan Pan
+19 Shell Loop
+20 Tibetian
+21 Morocco
+22 Archtypal
+23 Feminine
+24 Sitar 1              	
+25 Bali Bell2
+26 Tune FXkit
+27 Out Finger
+28 Shaka 2
+29 Aboriginal
+30 Wave Press
+31 Shakalead
+32 SprStition
+33 Bottles
+34 Sitar 2
+35 Eko Bell
+36 Shell Perc
+37 Soft Pole
+38 Ethereal 2
+39 Shining
+40 Spirits
+41 Shaku Wave
+42 MirrorLake
+43 God'sChoir
+44 Koto Trem
+45 Estuary
+46 5thBreeze
+47 ShellBurst
+48 Quiet Time
+49 Bell Ring            
+
+// Korg M1
+// MPC-011 Programs
+// Press PROG button
+
+Bank 0 12 MPC-011 prog
+0 JzAltoSax
+1 Soprano
+2 Poppn'Bari
+3 Trombender
+4 PlungerTBN
+5 FrenchHorn
+6 Octa Brass
+7 Tuba/Trpt
+8 Wish
+9 PalaPala
+10 Alto Cool
+11 Tenorroomm
+12 Mulligan
+13 JJ Johnson
+14 MutromBomb
+15 FrHrn&Trom
+16 Trpt&Brass
+17 ArcoString
+18 Pasqualina
+19 TIME
+20 Sensitouch
+21 ALTOgether
+22 SopianoSax
+23 Barry Clav
+24 Accordian              	
+25 FrHrnWurld
+26 TightBras
+27 Flute Too
+28 BrassBells
+29 *ATLANTIS*
+30 SingingSax
+31 Doot Horn
+32 COPELAND
+33 PluckWaltz
+34 VORTEX!!!!
+35 Brass Orch
+36 The North
+37 Horn Drops
+38 Creators
+39 HvyMtlVibe
+40 PianoForty
+41 NotreDame
+42 BoxO'Music
+43 ORKA STRAW
+44 Kalimbone
+45 SoftGuitar
+46 The Rotary
+47 SofStrBass
+48 First Bass
+49 3D Drums
+
+// Korg M1
+// MPC-012 Programs
+// Press PROG button
+
+Bank 0 13 MPC-012 prog
+0 Orient
+1 East
+2 Fantablock
+3 Great 1
+4 Imperial
+5 Zeus brass
+6 Brasshalls
+7 Neuromance
+8 Pretty 1
+9 Mellow
+10 FastBrass
+11 DreamPiano
+12 Piatoron
+13 SuperPluck
+14 IntimateEP
+15 Lovely
+16 Sympathy
+17 Simplicity
+18 Expiration
+19 CoolDecay
+20 Colorfully
+21 Condense
+22 Gorgeous
+23 Tiny Pluck
+24 Pretty 2              	
+25 Tiny Song
+26 FamousPad1
+27 FamousPad2
+28 SquarePad1
+29 SquarePad2
+30 SquarePad3
+31 Saw Pad
+32 Octave Pad
+33 Saw sweet
+34 Pulse Pad
+35 Tunnel Pad
+36 Dark Sun
+37 Simple Pad
+38 Zeus Pad
+39 ColdVoice
+40 SilkPad Hi
+41 Cloudy Pad
+42 Power of M
+43 Synquencer
+44 Great 2
+45 HibridBS
+46 Basshall
+47 Fat Boy
+48 Break down
+49 Stormy             
+
+// Korg M1
+// MPC-013 Programs
+// Press PROG button
+
+Bank 0 14 MPC-013 prog
+0 Bouzouki       
+1 Tambura        
+2 Gopichand      
+3 Koto           
+4 Shou           
+5 Biwa           
+6 Hitiriki       
+7 Santur         
+8 Rubab          
+9 Esraj          
+10 Gamelan        
+11 Shamisen       
+12 Per & Drum     
+13 Buzu Str       
+14 Hiti Sax       
+15 Adjanta        
+16 Pendant        
+17 Vox Piano      
+18 Hiti Brass     
+19 Rubass         
+20 Shou Voice     
+21 Rubab Str      
+22 Decay Sant     
+23 Side Bachi     
+24 GopiVox                   	
+25 Whitenight     
+26 FatStrings     
+27 Sant Vox       
+28 Cha!!          
+29 Daydream       
+30 Metal Sant     
+31 Rock Biter     
+32 Aquariam       
+33 Tiptap         
+34 Move Out       
+35 WarmLead 1     
+36 Biwa Bell      
+37 Biwa Clav      
+38 AngelChoir     
+39 Day After      
+40 Ninja          
+41 Cocoon         
+42 Glass Harp     
+43 Stomp          
+44 Gopiano        
+45 Fat Biwa       
+46 Eternal        
+47 Space Game     
+48 WarmLead 2     
+49 Solaris
+
+// Korg M1
+// MPC-014 Programs
+// Press PROG button
+
+Bank 0 15 MPC-014 prog
+0 FoggyRain
+1 TapBass
+2 Coin Spin
+3 Rain Leak
+4 RazorEdge
+5 Rabender
+6 TightBass
+7 Storm
+8 DragonLore
+9 PatPad
+10 Hall Bang
+11 Steam
+12 TapVoice
+13 Tap EP
+14 Alice
+15 Fun Flute
+16 SweetSynth
+17 Quick
+18 Nutcracker
+19 His Organ
+20 Peel Off!
+21 Snow
+22 Sparkling
+23 MistyCello
+24 Toy Cycler                   	
+25 ZZ Cello
+26 Mistral
+27 Wink
+28 Dust Shoot
+29 Sweep
+30 Logos
+31 Factory
+32 SandValley
+33 Passion
+34 Scrap
+35 Pearls
+36 Crack
+37 Iron Man
+38 SmashGlass
+39 Weirdness
+40 Out Use
+41 SE & Drums
+42 Atoll
+43 Switch
+44 Milky Way
+45 Killer
+46 Stardust
+47 FlyingMoth
+48 PopComp
+49 Variant
+
+// Korg M1
+// MPC-015 Programs
+// Press PROG button
+
+Bank 0 16 MPC-015 prog
+0 NATURAL
+1 NATURALvel
+2 ANALOG
+3 ELECTRIC 1
+4 SoftAttack
+5 POWER FEEL
+6 NATURAL HI
+7 BIG CAVE
+8 LIVE STAGE
+9 VIOLENTkid
+10 ELECTRIC 2
+11 JEISON! ?!
+12 PARADE
+13 HH PARADE
+14 ROTARY HH
+15 FAT HiHat
+16 TOM & CYM
+17 IMPACT! !
+18 HI TUNE
+19 < INST >01
+20 < INST >02
+21 SPACE AIR
+22 L-R WARP
+23 MIX INST
+24 MIXINSTvel                	
+25 PlainSound
+26 SlowAttack
+27 HEAVY DRUM
+28 BUDOKAN 1
+29 BUDOKAN 2
+30 HOLD ON
+31 Oh! SPACY
+32 REHEARSAL1
+33 REHEARSAL2
+34 Gate Play
+35 GateRevrs
+36 PUNK BASS
+37 ALCO BASS
+38 ABass
+39 Cutting GT
+40 70's Piano
+41 Future Brs
+42 Mild Brass
+43 <STRINGS>
+44 Machine Vo
+45 REVOLUTION
+46 REFLECTION
+47 Christmas
+48 ExpartPlay
+49 GreateJazz
+
+// Korg M1
+// MPC-016 Programs
+// Press PROG button
+
+Bank 0 17 MPC-016 prog
+0 ShinjukuC6
+1 Water   C6
+2 Horse   C6
+3 Autumn  C6
+4 Industry C6
+5 A_Hammer C6
+6 Frog    C6
+7 Wind 1
+8 Wind 2
+9 Wind 3
+10 Storm
+11 AutumnPad
+12 AutumnVO
+13 AutumnSt
+14 AutumnMO
+15 AutumnBell
+16 AutumnPf
+17 WaterPad
+18 WaterVibe
+19 WaterDrop1
+20 WaterDrop2
+21 Pour Water
+22 HoofedBass
+23 Wind Perc
+24 Earthquake               	
+25 Shiver
+26 Manta
+27 DragonLore
+28 HorseHit!1
+29 HorseHit!2
+30 Frog Hit!
+31 Scratch
+32 Caution
+33 Wind Flute
+34 His Choir
+35 Specter
+36 Weird Lore
+37 Pa!
+38 SE & Drums
+39 SFX 01
+40 SFX 02
+41 SFX 03
+42 SFX 04
+43 SFX 05
+44 SFX 06
+45 SFX 07
+46 SFX 08
+47 SFX 09
+48 SFX 10
+49 Piano  
+
+// Korg M1
+// MPC-011 "Akira" Programs
+// Press PROG button
+
+Bank 0 18 MPC-11 prog
+0 UK Strings 
+1 Green Land 
+2 Trans 
+3 Singers 
+4 Moon Bass 
+5 Prayer 1 
+6 Pianics 1 
+7 Santa Tone 
+8 Spring Cat 
+9 Longing 
+10 Dancing M1 
+11 HyperBrass 
+12 BrassArts 
+13 Arf 
+14 Flex-Able 
+15 Fant Asia 
+16 La Maison 
+17 DELTA Str. 
+18 Ha-Ha- 
+19 Dream Str. 
+20 Lead 21 
+21 RokkoWater 
+22 HAN SOLO 
+23 Serious M1 
+24 Stratcast!
+25 Harpland 
+26 Funky 
+27 JayTripBar 
+28 Gokuu 
+29 ROSE Piano 
+30 Korgan 
+31 Urban Sax 
+32 The Pa 64 
+33 Komsons 
+34 Peaceful 
+35 Reverse AP 
+36 Mosk 
+37 Alaska 
+38 AttackNo.9 
+39 PAD MAX 3 
+40 JazzGuitar 
+41 Occult 1 
+42 Ceremony 
+43 Occult 2 
+44 Bell&Timp. 
+45 Esperanto 
+46 Taiko 
+47 Forever 
+48 GameCenter 
+49 MintPhone1
+50 Prayer 2 
+51 Pianics 2 
+52 Digibell 
+53 Horror 
+54 PopGuitar 
+55 ChimeChime 
+56 Digitalia1 
+57 Banjo No.5 
+58 Digitalia2 
+59 SquireBass 
+60 Floating
+61 Sax Apeal 
+62 SopranoSax 
+63 Whisper 
+64 Metal Kids 
+65 SummerDays 
+66 FingerBass 
+67 Mute 
+68 Meta Piano 
+69 Slap Happy 
+70 Marimba 
+71 Vibe Piano 
+72 MintPhone2 
+73 EARTH BASS 
+74 Pianics 3 
+75 Jaco 
+76 Harmonics 
+77 IndiViolin
+78 Bell Piano 
+79 OrganPiano 
+80 PAD MAX 1 
+81 Sanzo 
+82 CLAV OLD 
+83 Tabraham 
+84 PAD MAX 2 
+85 AttackNo.5 
+86 Mallet PF
+87 Syndicate 
+88 PizzicaHit 
+89 Santur 
+90 U-Ray! 
+91 Mr.POLE 
+92 AnalogStrg 
+93 Fly Away 
+94 Miss BLOCK 
+95 Dark Bader 
+96 MS-20 
+97 Mrs.DROP 
+98 MS-10 
+99 Drumsko
+
+// Korg M1
+// MPC-016 "World Omnibus" Programs
+// Press PROG button
+
+Bank 0 19 MPC-12 prog
+
+0 Ethereal 
+1 PianoStack 
+2 KillerHorn 
+3 TyneVoices 
+4 FolkGuitar 
+5 BottleRing 
+6 HammerBass 
+7 Brass&Reed 
+8 I saw wind 
+9 WildManKit 
+10 Fragile 
+11 5th Ave.
+12 Band Swell 
+13 Angel Hair 
+14 DistGuitar 
+15 HunduiBell 
+16 Roto-Bass 
+17 AnalogHorn 
+18 Warm+Fuzzy 
+19 Ambient 
+20 SweetBambu
+21 ReedPiano 
+22 Trpt & Sax 
+23 Dynner 1 
+24 Nylon Slap
+25 Bali Bells 
+26 Fret Pick 
+27 Orch Pad . 
+28 LightAfter 
+29 NuAgeKit 
+30 SunMallet 
+31 GlassPiano 
+32 MutedBrass 
+33 MagicVoice 
+34 Flat-Top 
+35 Soft-Bells 
+36 BreathBass 
+37 Super Pizz 
+38 Night Dad 
+39 TunedDrums 
+40 ArcticWind 
+41 GrandHpsic 
+42 Brass Pad 
+43 Influxuato 
+44 Twangatar 
+45 High Bell
+46 Zoto-Bass 
+47 Stringz 
+48 Ice*Jungle 
+49 SpasmDrums
+50 I Saw Time 
+51 Polecat 
+52 TalkinMute 
+53 Slo Choir 
+54 Wood Clav 
+55 DreamBell 
+56 MeanMrBass 
+57 SawStrings 
+58 Gamelans 
+59 ThrashKit! 
+60 EasternSun 
+61 Think Sync 
+62 Rock Organ 
+63 AlienChoir 
+64 GoldenClav 
+65 Star**Dust 
+66 EP & Bass 
+67 ArcoString 
+68 Alien Work 
+69 Velo+Gated 
+70 Quartet 
+71 Callilead 
+72 Trem Organ 
+73 ChoirFrogs 
+74 Pole Clav 
+75 Digitalis 
+76 Thick Pick 
+77 Jolicouer? 
+78 Spaced Out 
+79 Room Drums 
+80 Kamakura 
+81 Pan-N-5th 
+82 Dirt&Lesly 
+83 Slo Voice
+84 Clav-Talk 
+85 Glass Pad 
+86 Mumbles 
+87 Memory's 
+88 CrashLand 
+89 Look Out!! 
+90 Barbara 
+91 BottlePop 
+92 Rock Twins 
+93 TecnoTouch 
+94 DigiHarp 
+95 Digitalia1 
+96 Lucky Guy 
+97 WiteBottle 
+98 Zingy 
+99 Keith&Soul
+
+// Korg M1
+// MPC-013 "Bunmay" Programs
+// Press PROG button
+
+Bank 0 20 MPC-13 prog
+
+00 ToTo Horn 
+01 Fumi Horns 
+02 FrenchHorn 
+03 Miles 1 
+04 Miles 2 
+05 Bacharach 
+06 Lonly Obea 
+07 FocusFlute 
+08 Breth Sax 
+09 Hatfield 
+10 "HONKY"!! 
+11 Fumi E.Pf1 
+12 Fumi E.Pf2 
+13 Rock!Piano 
+14 Digi Piano 
+15 Fumi Org. 
+16 P.Harum 
+17 Tarkus 
+18 Dekaorgan 
+19 Wulitwer 
+20 Glass Pad 
+21 Lyles Pad 
+22 Mays Flute 
+23 Hallelujah 
+24 Ooh Mallet
+25 Pavane 
+26 MeltronVo 
+27 Shakuhachi 
+28 DooWap !! 
+29 M-Transfar 
+30 "Fantasy" 
+31 Bell&Voice
+32 Fumi Grock 
+33 Music Box 
+34 Fumi Chime 
+35 Ribon 
+36 Sustain 
+37 "Bolero" 
+38 Fumi Harp 
+39 STRAWBERRY 
+40 Fumi Str. 
+41 AngelClare 
+42 !!Pizz!!
+43 MarboloStr 
+44 PARADISE? 
+45 DeadOfNite 
+46 Ron Carter 
+47 Ele,ACo. 
+48 PAT M. 
+49 !!Hitt!!
+50 Uron CM 
+51 KalimbaNew 
+52 Sitar New 
+53 Steam-Org. 
+54 Xylophone 
+55 Elec.Sitar 
+56 GaryBurton 
+57 "Gagaku" 
+58 Piazzola 
+59 Shamisen 
+60 SingleCoil 
+61 D6 Clavi 
+62 Oscar Bass 
+63 "Jacco" 
+64 Fumi Bass
+65 "BACH" 
+66 Church 1 
+67 F.Fanfare 
+68 Bell Hit!! 
+69 Church 2 
+70 God a Mach 
+71 Tony Banks 
+72 Jan Hammer 
+73 Hammer 2 
+74 7OOS 
+75 Toots 
+76 Elec.Violn 
+77 MarimFlute 
+78 Synclavi$$ 
+79 Jimi-Hen 
+80 BON-ODORI 
+81 77-Sunset 
+82 Drum-sko 1 
+83 Wood-Block 
+84 Drum-sko 2 
+85 Door,Close 
+86 Wind Chime 
+87 ATOM Boots 
+88 Drum-sko 3 
+89 Gated Drum 
+90 Space Echo 
+91 "ENO" 
+92 ChurchBell 
+93 Breather 
+94 Up Up Up-- 
+95 HorrorBell 
+96 TakoVS'Ika 
+97 WeAreWorld 
+98 Stranger 
+99 'Chan'Chan
